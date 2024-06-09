@@ -1,4 +1,3 @@
-// https://www.codewars.com/kata/5868a68ba44cfc763e00008d/train/java
 // https://esolangs.org/wiki/Paintfuck
 public class Paintfuck {
     public static String interpreter(String code, int iterations, int width, int height) {
